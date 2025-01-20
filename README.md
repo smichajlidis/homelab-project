@@ -9,7 +9,7 @@ This project is my way of developing networking skills at home. I am currently p
 - [ ] Buy and plug in a managed switch.
 - [ ] Purchase and configure a router for the network
 
-## Stages of work 🗂️
+## Stages of work 🧩
 
 ### 1. Assembled rack tripod 
 For the beginning, I bought and assembled a rack tripod with a 12-slot patchpanel and a shelf for future devices. I also ordered CAT.6 keystones, but unfortunately, I received CAT.5e instead. As a result, I’ll need to wait a few days before I can start preparing the wires.
