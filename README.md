@@ -15,3 +15,9 @@ This project is my way of developing networking skills at home. I am currently p
 For the beginning, I bought and assembled a rack tripod with a 12-slot patchpanel and a shelf for future devices. I also ordered CAT.6 keystones, but unfortunately, I received CAT.5e instead. As a result, I’ll need to wait a few days before I can start preparing the wires.
 
 ![Assembled rack tripod](images/step-1-rack-tripod/1c.jpg)
+
+## 2. Infrastrucure expansion. Awaiting for proper cables.
+
+Added a cable gland panel and a power strip. I made a mistake by ordering shielded cables, which I don’t actually need for my setup. To be honest, they are the main reason for the delay in the project. So, the switch, router, and I are currently waiting for the delivery of U/UTP Cat.6 CU cables.
+
+![Infrastructure expansion](images/step-2-infrastructure-expansion/2a.jpg)
