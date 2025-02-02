@@ -29,6 +29,6 @@ Free Udemy course by [Mariusz Kuriata](https://www.linkedin.com/in/mariusz-kuria
 
 <div align=center>
     <a href="https://www.udemy.com/course/home-rack-presentation-and-tips-for-beginners/">
-        <img src="images/homelab-udemy-course.png" alt="Home lab Udemy Course>
+        <img src="images/homelab-udemy-course.png" alt="Home Lab Udemy Course">
     </a>
 </div>
