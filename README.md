@@ -22,6 +22,11 @@ Added a cable gland panel and a power strip. I made a mistake by ordering shield
 
 ![Infrastructure expansion](images/step-2-infrastructure-expansion/2a.jpg)
 
+### 3. Connected Switch 
+U/UTP has been delivered, so I finally found time to connect the switch. For now, this simplest infrastructure (switch-host) is sufficient to practice switch configuration according to my INF.02 exercise book, which I’m currently using. Soon, I’ll need to connect another port to another host to practice communication within the same subnet, VLANs, etc.
+
+![Connected switch](images/step-3-connected-switch/1a.jpg)
+
 ## Inspirations & Resources  :books:
 
 ### 1. Home Lab Beginners guide
